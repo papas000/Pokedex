@@ -1,4 +1,5 @@
 # Pokedex
-Simple fetch and display app, implementing a free to use API
+Pokedex app, parsing data from PokeAPI, in JSON format.
 
-Import in Android Studio
+# To run:
+Import in Android Studio, build and run on device.
